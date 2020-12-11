@@ -1,0 +1,11 @@
+{
+    "name": "top-prettier-config",
+    "version": "1.0.0",
+    "description": "TOP backend services prettier configuration",
+    "main": "index.json",
+    "files": ["index.json"],
+    "repository": {
+      "url": "https://github.com/Track-on-Performance/prettier"
+    },
+    "license": "MIT"
+  }
