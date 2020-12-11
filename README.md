@@ -1,5 +1,5 @@
 # prettier
 Prettier configuration for backend services
 
-##Install
+## Install
 yarn add top-prettier-config
