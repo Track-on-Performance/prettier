@@ -1,6 +1,6 @@
 {
   "name": "top-prettier-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "TOP backend services prettier configuration",
   "main": "index.json",
   "files": [
